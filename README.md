@@ -25,3 +25,6 @@ AWS EBS: Block-level storage volumes used with EC2 instances.
 **How to Use:**
 
 Simply deploy the Lambda function in your AWS environment and configure it to run on a schedule or trigger event.
+
+**Note:**
+This Lambda Function can be manually executed and can be event driven i.e. we can use cloudwatch and create a rule to run this function on specific time schedhule.
