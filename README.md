@@ -17,7 +17,9 @@ It automates the cleanup process, saving time and effort for AWS users.
 **Key Technologies Used:**
 
 AWS Lambda: Serverless computing service used to execute the cleanup function.
+
 AWS EC2: Service providing resizable compute capacity in the cloud, where instances may use EBS volumes.
+
 AWS EBS: Block-level storage volumes used with EC2 instances.
 
 **How to Use:**
